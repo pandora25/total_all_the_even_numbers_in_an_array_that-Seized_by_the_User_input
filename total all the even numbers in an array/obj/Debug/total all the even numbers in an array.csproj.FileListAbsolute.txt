@@ -1,0 +1,7 @@
+c:\users\mcyal\source\repos\total all the even numbers in an array\total all the even numbers in an array\bin\Debug\total all the even numbers in an array.exe.config
+c:\users\mcyal\source\repos\total all the even numbers in an array\total all the even numbers in an array\bin\Debug\total all the even numbers in an array.exe
+c:\users\mcyal\source\repos\total all the even numbers in an array\total all the even numbers in an array\bin\Debug\total all the even numbers in an array.pdb
+c:\users\mcyal\source\repos\total all the even numbers in an array\total all the even numbers in an array\obj\Debug\total all the even numbers in an array.csprojAssemblyReference.cache
+c:\users\mcyal\source\repos\total all the even numbers in an array\total all the even numbers in an array\obj\Debug\total all the even numbers in an array.csproj.CoreCompileInputs.cache
+c:\users\mcyal\source\repos\total all the even numbers in an array\total all the even numbers in an array\obj\Debug\total all the even numbers in an array.exe
+c:\users\mcyal\source\repos\total all the even numbers in an array\total all the even numbers in an array\obj\Debug\total all the even numbers in an array.pdb
